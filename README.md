@@ -14,7 +14,7 @@ Due to my background in Psychometrics, I am interested in this type of approache
 
 In this example I have used A-Frame in the frontend, and Node along with Express and MongoDB in the backend, to develop one of those so-called <a href="https://en.wikipedia.org/wiki/Serious_game">serious games</a> that could, for example, provide information about the <a href="https://en.wikipedia.org/wiki/Depth_perception">depth perception</a> of a group of patients.
 
-![animation](img/animation.gif)
+![animation](img/animation_large.gif)
 
 How to use it
 -------------
